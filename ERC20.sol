@@ -50,8 +50,8 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
      * construction.
      */
     constructor() {
-        _name = "SaumyaToken";
-        _symbol = "SMT";
+        _name = "TestToken";
+        _symbol = "TTT";
     }
 
     /**
